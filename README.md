@@ -10,7 +10,7 @@ Description
 Software Needs
 To complete this project, i'll require the following softwares:
 - Python
-- A code editor such as Visual Studio Code, Notepad,...
+- A text editor such as Visual Studio Code, Notepad,...
 - A terminal application
 
 Statistics computed
