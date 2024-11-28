@@ -1,17 +1,49 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+Date created
+- Tuesday 26 November 2024
 
-### Date created
-Include the date you created this project and README file.
+Project Title
+- Project Explore US Bikeshare Data
 
-### Project Title
-Replace the Project Title
+Description
+- This project purpose is to develop a tool analyzing the given bikeshare data. In this project, we will explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. Then users will have ability to get statistic data such as popular bike stations, peak usage hours, and average trip durations.
 
-### Description
-Describe what your project is about and what it does
+Software Needs
+To complete this project, i'll require the following softwares:
+- Python
+- A code editor such as Visual Studio Code
+- A terminal application
 
-### Files used
-Include the files used
+Statistics computed
+- Popular times of travel (i.e., occurs most often in the start time)
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+most common month
+most common day of week
+most common hour of day
 
+- Popular stations and trip
+
+most common start station
+most common end station
+most common trip from start to end (i.e., most frequent combination of start station and end station)
+
+- Trip duration
+
+total travel time
+average travel time
+
+- User infomation
+
+counts of each user type
+counts of each gender (only available for NYC and Chicago)
+earliest, most recent, most common year of birth (only available for NYC and Chicago)
+
+Files used
+- chicago.csv
+- new_york_city.csv
+- washington.csv
+
+Credits
+- Udacity's GitHub repository (https://github.com/udacity)
+- Pandas documentation (https://pandas.pydata.org/docs/
+- NumPy documentation (https://numpy.org/doc/)
+- Git Key Terms (https://video.udacity-data.com/topher/2017/March/58d31eb5_ud123-git-keyterms/ud123-git-keyterms.pdf)
