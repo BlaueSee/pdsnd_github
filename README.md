@@ -12,6 +12,7 @@ To complete this project, i'll require the following softwares:
 - Python
 - A text editor such as Visual Studio Code, Notepad,...
 - A terminal application
+- Udacity AI
 
 Statistics computed
 - Popular times of travel (i.e., occurs most often in the start time)
