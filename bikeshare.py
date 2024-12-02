@@ -191,7 +191,6 @@ def main():
         trip_duration_stats(df)
         sleep(1.5)
         user_stats(df, city)
-        sleep(0.5)
 
         restart = input('Would you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
